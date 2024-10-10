@@ -1,0 +1,26 @@
+body{
+    font-family: arial;
+}
+p{
+    font-size: 19px;
+    line-height: 25px;
+
+}
+img[title]{
+    border: 3px solid red;
+}
+input[type]{
+    border: 3px solid  green;
+}
+a[target]{
+    color:red;
+}
+input[type='password']{
+    border: 3px solid brown;
+}
+img[alt$='natural']{
+    border: 3px solid blueviolet;
+}
+img[alt*='of']{
+    border: 3px solid blueviolet;
+}
